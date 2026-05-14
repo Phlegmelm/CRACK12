@@ -1,0 +1,26 @@
+# Logs
+*.txt
+*.log
+
+# Personal/sensitive files
+backup/
+firmware/boot.bin
+magisk/magisk_patched_*.img
+
+# Large binaries — user must download these themselves
+unlock/unlocker/fdl1-dl.bin
+unlock/unlocker/fdl2-dl.bin
+unlock/unlocker/fdl2-cboot.bin
+unlock/unlocker/spd_dump.exe
+unlock/unlocker/u-boot-spl-16k-sign.bin
+unlock/unlocker/uboot_bak.bin
+unlock/unlocker/*.xml
+unlock/unlocker/pgpt.bin
+unlock/unlocker/m.bin
+unlock/unlocker/Log/
+sprd_driver/
+magisk/magisk.apk
+
+# Windows
+Thumbs.db
+desktop.ini
