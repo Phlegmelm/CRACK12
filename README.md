@@ -92,7 +92,7 @@ it checks if you have everything before you brick anything.
 this will **wipe your device**. back up your stuff. we warned you.
 
 ```
-p12_autoroot.bat → option 1 (full auto)
+p12_autoroot.bat → option 1 (full auto) js so you know still hold volume down while waiting for connection
 ```
 
 or if you want to do it manually and feel like a hacker:
