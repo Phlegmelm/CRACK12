@@ -1,4 +1,4 @@
-# CRACK12 🔓
+# CRACK12 
 
 > rooting an ATOZEE P12 on Android 14 using CVE-2022-38694 — because `fastboot oem unlock` said no, so we found another way.
 
