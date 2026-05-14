@@ -8,7 +8,7 @@ Download each one and place it in the correct folder before running any scripts.
 ## 1. CVE-2022-38694 Unlock Tools
 **Place in:** `unlock/unlocker/`
 
-Download `ums9230_universal_unlock.zip` from:
+Download `ums9230_universal_unlock_EMMC.zip` from:
 https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases
 
 Extract the contents directly into `unlock/unlocker/`.
